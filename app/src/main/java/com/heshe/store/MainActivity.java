@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true);
         myWebView.setWebViewClient(new WebViewClient());
 
-        myWebView.loadUrl("http://www.citeinfo.net/index.php");
+        myWebView.loadUrl("file:///android_asset/index.html");
     }
     @Override
     public void onBackPressed() {
