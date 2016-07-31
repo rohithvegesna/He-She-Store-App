@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">He-She Store</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search</string>
+    <string name="navigation_view_item_1">Main Activity</string>
+    <string name="navigation_view_item_2">Viral Android</string>
+    <string name="navigation_view_item_3">Google</string>
+    <string name="navigation_view_item_4">Viral Android</string>
+    <string name="navigation_view_item_5">Google</string>
+    <string name="navigation_view_item_6">Viral Android</string>
+    <string name="navigation_view_category_1">HeSheStore</string>
+</resources>
